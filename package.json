@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.4.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "fullstackbookingapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Shikha",
+  "license": "ISC",
+  "description": ""
+}
